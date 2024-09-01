@@ -2,7 +2,7 @@
 
 ### ShareFolio（シェアフォリオ）
 
-![アプリ画像](https://github.com/mori-corp/sharefolio/blob/images/ShareFolio.png)
+<img width="1369" alt="sharefolio" src="https://github.com/user-attachments/assets/968f38f4-439b-4c0a-94eb-2f0c5063bdb5">
 
 # アプリ URL
 
