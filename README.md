@@ -4,8 +4,6 @@
 
 ![アプリ画像](https://github.com/mori-corp/sharefolio/blob/images/ShareFolio.png)
 
-<br>
-
 # アプリ URL
 
 https://sharefolio2022.web.app/
